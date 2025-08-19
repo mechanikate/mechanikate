@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/mechanikate" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mechanikate" height="30" width="40" /></a><a href="https://matthy.dev/socials.html" target="_blank"><img align="center" src="https://matthy.dev/pointer-icon.png" alt="other socials" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mechanikate" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mechanikate" height="30" width="40" /></a><a href="https://matthy.dev/socials.html" target="_blank"><img align="center" src="https://matthy.dev/pointer-icon.png" alt="other socials" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
